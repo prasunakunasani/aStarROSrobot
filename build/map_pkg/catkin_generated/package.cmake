@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "map_pkg")
+set(map_pkg_MAINTAINER "viki <viki@todo.todo>")
+set(map_pkg_DEPRECATED "")
+set(map_pkg_VERSION "0.0.0")
+set(map_pkg_BUILD_DEPENDS "roscpp" "tf")
+set(map_pkg_RUN_DEPENDS "roscpp" "tf")
+set(map_pkg_BUILDTOOL_DEPENDS "catkin")

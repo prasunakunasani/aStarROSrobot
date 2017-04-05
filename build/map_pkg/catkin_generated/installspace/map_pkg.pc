@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws/install
+
+Name: map_pkg
+Description: Description of map_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_ws/install/lib 
+Requires: 

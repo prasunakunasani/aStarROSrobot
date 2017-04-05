@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "mybot_description")
+set(mybot_description_MAINTAINER "robocpu <robocpu@todo.todo>")
+set(mybot_description_DEPRECATED "")
+set(mybot_description_VERSION "0.0.0")
+set(mybot_description_BUILD_DEPENDS )
+set(mybot_description_RUN_DEPENDS )
+set(mybot_description_BUILDTOOL_DEPENDS "catkin")

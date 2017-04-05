@@ -1,0 +1,8 @@
+prefix=/home/viki/catkin_ws/devel
+
+Name: odometry_test
+Description: Description of odometry_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/viki/catkin_ws/devel/lib 
+Requires: 
